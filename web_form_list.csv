@@ -1,0 +1,22 @@
+descrption,type,tagName, RadioType
+lastname,text,abc1,
+firstname,text,abc2,
+lastname-kana,text,abc3,
+firstname-kana,text,abc4,
+e-mail,text,abc5,
+password,text,abc6,
+password-confirm,text,abc7,
+gender,radio_button,abc8-1,abc-8-2
+job,select,abc9,
+job-category,select,abc10,
+job-department,select,abc11,
+job-position,text,abc12,
+job-shop-name,text,abc13,
+job-post-adress,text,abc14,
+job-pref-address,select,abc15,
+job-ward-address,text,abc16,
+job-building-address,text,abc17,
+phone-number,text,abc18,
+ab-test,radio_button,abc19-1,abc19-1
+ab-test,radio_button,abc20-1,Abc20-2
+confirm,checbox,abc21,
